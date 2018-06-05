@@ -1,0 +1,3 @@
+[submodule "py/micropython-fourier"]
+	path = py/micropython-fourier
+	url = git@github.com:peterhinch/micropython-fourier.git
